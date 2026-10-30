@@ -1,6 +1,6 @@
 # Analisador-gastos-Nubank
 
-# 💰 Analisador de Gastos Nubank - Meta RTX 3050
+# 💰 Analisador de Gastos Nubank - Meta RTX 3060
 
 Projeto de Análise de Dados feito 100% no celular para juntar R$ 1.000/mês pro setup multifuncional para futuros projetos de engenharia de dados/ML.
 
